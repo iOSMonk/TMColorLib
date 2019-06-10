@@ -1,4 +1,5 @@
 # TMColorLib
+<<<<<<< HEAD
 
 [![CI Status](https://img.shields.io/travis/iOSMonk/TMColorLib.svg?style=flat)](https://travis-ci.org/iOSMonk/TMColorLib)
 [![Version](https://img.shields.io/cocoapods/v/TMColorLib.svg?style=flat)](https://cocoapods.org/pods/TMColorLib)
@@ -27,3 +28,6 @@ iOSMonk, 740305122@qq.com
 ## License
 
 TMColorLib is available under the MIT license. See the LICENSE file for more info.
+=======
+测试测试
+>>>>>>> ba31e468220b10d30aa51f403ab0a7d3ff313417
