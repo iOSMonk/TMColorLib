@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'TMColorLib'
-  s.version          = '0.1.1'
-  s.summary          = 'A short description of TMColorLib.'
+  s.version          = '0.1.2'
+  s.summary          = 'A lib for iOS Color'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
